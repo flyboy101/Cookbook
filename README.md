@@ -1,4 +1,4 @@
-# Traderboot
+# Cookbook
 Trader based on google finance data and google spreadsheet
 
 For further info on how to set up a readme file in Github:
@@ -7,4 +7,8 @@ For further info on how to set up a readme file in Github:
 
 On how to setup a web page in Github:
  - https://pages.github.com/
+ 
+On Bitcoin and beyond:
+ Mastering Bitcoin
+ - https://github.com/bitcoinbook/bitcoinbook
  
