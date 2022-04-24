@@ -11,6 +11,12 @@ m/84'/0'/1'/0
 m/84'/0'/2'/0
 m/84'/0'/94982'/0
 
+```
+var add2 = function(number) {
+  return number + 2;
+}
+```
+
 
 # Send later email in Gmail:
 Free sources:
