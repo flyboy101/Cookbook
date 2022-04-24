@@ -6,7 +6,7 @@ The derivation path is structured as follow:
 m / purpose' / coin_type' / account' / change / address_index
 ```
 
-changing the value for "account" you can generate as many wallets as you wish:
+changing the value for `account` you can generate as many wallets as you wish:
 
 ```
 m/84'/0'/0'/0
