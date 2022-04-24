@@ -1,12 +1,12 @@
 # Cookbook
-# BITCOIN:
-il percorso di derivazione è strutturato così:
+# Bitcoin Wallet:
+The derivation path is structured as follow:
 
 ```
 m / purpose' / coin_type' / account' / change / address_index
 ```
 
-cambiando il valore di account puoi avere tanti wallet quanti ne vuoi:
+changing the value for "account" you can generate as many wallets as you wish:
 
 ```
 m/84'/0'/0'/0
