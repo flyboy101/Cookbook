@@ -2,19 +2,17 @@
 # BITCOIN:
 il percorso di derivazione è strutturato così:
 
+```
 m / purpose' / coin_type' / account' / change / address_index
+```
 
 cambiando il valore di account puoi avere tanti wallet quanti ne vuoi:
 
+```
 m/84'/0'/0'/0
 m/84'/0'/1'/0
 m/84'/0'/2'/0
 m/84'/0'/94982'/0
-
-```
-var add2 = function(number) {
-  return number + 2;
-}
 ```
 
 
