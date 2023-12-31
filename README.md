@@ -1,8 +1,13 @@
 # Cookbook
 ## Bitcoin Core:
 ### Resources
+
+
+- [Jon Atack - How to compile Bitcoin Core and run the unit and functional tests](https://jonatack.github.io/articles/how-to-compile-bitcoin-core-and-run-the-tests)
+- [Jon Atack - How to Contribute Pull Requests to Bitcoin Core](https://jonatack.github.io/articles/how-to-contribute-pull-requests-to-bitcoin-core)
 - [Jon Atack - How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
-- [Chaincode Labs study guide](https://github.com/chaincodelabs/seminars)
+- [Stoic thoughts from Marcus Aurelius](https://jonatack.github.io/articles/epictetus)
+- [Chaincode Labs - Study guide](https://github.com/chaincodelabs/seminars)
 
 
 
