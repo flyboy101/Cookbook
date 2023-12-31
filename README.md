@@ -2,6 +2,9 @@
 ## Bitcoin Core:
 ### Resources
 - [Jon Atack - How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
+- [Chaincode Labs study guide](https://github.com/chaincodelabs/seminars)
+
+
 
 ## Bitcoin Wallet:
 ### HD wallet key identifier (path)
