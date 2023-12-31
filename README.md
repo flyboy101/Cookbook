@@ -11,6 +11,7 @@
 - [Jon Atack - Stoic thoughts from Marcus Aurelius](https://jonatack.github.io/articles/epictetus)
 - [Chaincode Labs - Study guide](https://github.com/chaincodelabs/seminars)
 - [Andreas Antonopolous - Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- [Darthcoin - How to get started with a Umbrel Bitcoin / LN Node](https://darthcoin.substack.com/p/umbrel-bitcoin-ln-node)
 
 
 
