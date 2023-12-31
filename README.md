@@ -8,6 +8,7 @@
 - [Jon Atack - How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
 - [Stoic thoughts from Marcus Aurelius](https://jonatack.github.io/articles/epictetus)
 - [Chaincode Labs - Study guide](https://github.com/chaincodelabs/seminars)
+- [Andreas Antonopolous - Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 
 
 
@@ -60,7 +61,6 @@ For further info on how to set up a readme file in Github:
 On how to setup a web page in Github:
  - https://pages.github.com/
  
-On Bitcoin and beyond:
- Mastering Bitcoin
- - https://github.com/bitcoinbook/bitcoinbook
+
+
  
