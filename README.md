@@ -14,6 +14,11 @@
 - [Darthcoin - How to get started with a Umbrel Bitcoin / LN Node](https://darthcoin.substack.com/p/umbrel-bitcoin-ln-node)
 
 
+## Bitcoin Privacy:
+### Resources
+- [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
+- [KYCP.org](https://kycp.org/#/)
+
 
 ## Bitcoin Wallet:
 ### HD wallet key identifier (path)
