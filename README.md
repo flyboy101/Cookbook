@@ -12,7 +12,7 @@
 - [Chaincode Labs - Study guide](https://github.com/chaincodelabs/seminars)
 - [Andreas Antonopolous - Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 - [Darthcoin - How to get started with a Umbrel Bitcoin / LN Node](https://darthcoin.substack.com/p/umbrel-bitcoin-ln-node)
-
+- [Configurazione Electrs per accesso remoto su tor]([https://darthcoin.substack.com/p/umbrel-bitcoin-ln-node](https://whiterabbit21m.substack.com/p/configurazione-electrs-per-accesso?r=2kycbh))
 
 ## Bitcoin Privacy:
 ### Resources
