@@ -19,6 +19,11 @@
 - [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
 - [KYCP.org](https://kycp.org/#/)
 
+## Bitcoin wallet:
+### Resources
+- [Vanity address](https://bitcointalk.org/index.php?topic=25804.0)
+
+
 
 ## Bitcoin Wallet:
 ### HD wallet key identifier (path)
