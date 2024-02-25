@@ -25,7 +25,7 @@
 
 ## Bitcoin meetup:
 ### Resources
-- [Bitcoin lighthouse]([https://bitcointalk.org/index.php?topic=25804.0](https://bitcoinlighthouse.de/bitcoin-meetups/))
+- [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
 
 
 
