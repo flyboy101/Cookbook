@@ -14,16 +14,19 @@
 - [Darthcoin - How to get started with a Umbrel Bitcoin / LN Node](https://darthcoin.substack.com/p/umbrel-bitcoin-ln-node)
 - [Configurazione Electrs per accesso remoto su tor](https://whiterabbit21m.substack.com/p/configurazione-electrs-per-accesso?r=2kycbh)
 
+## Bitcoin Knowledgebase:
+- [Bitcoin Stack Exchange]([https://whiterabbit21m.substack.com/p/configurazione-electrs-per-accesso?r=2kycbh](https://bitcoin.stackexchange.com/users/5406/murch))
+
 ## Bitcoin Privacy:
 ### Resources
 - [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
 - [KYCP.org](https://kycp.org/#/)
 
-## Bitcoin wallet:
+## Bitcoin Wallet:
 ### Resources
 - [Vanity address](https://bitcointalk.org/index.php?topic=25804.0)
 
-## Bitcoin meetup:
+## Bitcoin Meetup:
 ### Resources
 - [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
 
