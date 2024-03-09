@@ -15,7 +15,7 @@
 - [Configurazione Electrs per accesso remoto su tor](https://whiterabbit21m.substack.com/p/configurazione-electrs-per-accesso?r=2kycbh)
 
 ## Bitcoin Knowledgebase:
-- [Bitcoin Stack Exchange]([https://whiterabbit21m.substack.com/p/configurazione-electrs-per-accesso?r=2kycbh](https://bitcoin.stackexchange.com/users/5406/murch))
+- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
 
 ## Bitcoin Privacy:
 ### Resources
