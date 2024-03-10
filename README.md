@@ -18,7 +18,7 @@
 - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
 
 @@ Lightning:
-- [Managing lightning node]([https://bitcoin.stackexchange.com/users/5406/murch](https://www.ridethelightning.info/))
+- [Managing lightning node](https://www.ridethelightning.info/)
 
 
 ## Bitcoin Privacy:
