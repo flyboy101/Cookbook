@@ -17,6 +17,10 @@
 ## Bitcoin Knowledgebase:
 - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
 
+@@ Lightning:
+- [Managing lightning node]([https://bitcoin.stackexchange.com/users/5406/murch](https://www.ridethelightning.info/))
+
+
 ## Bitcoin Privacy:
 ### Resources
 - [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
