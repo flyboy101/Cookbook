@@ -20,6 +20,8 @@
 ## Lightning:
 - [Managing lightning node](https://www.ridethelightning.info/)
 
+## Stats:
+- [Protocol statistics](https://transactionfee.info/)
 
 ## Bitcoin Privacy:
 ### Resources
