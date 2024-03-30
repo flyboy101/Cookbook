@@ -16,6 +16,7 @@
 
 ## Bitcoin Knowledgebase:
 - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
+- [Learn me a bitcoin](https://learnmeabitcoin.com/)
 
 ## Lightning:
 - [Managing lightning node](https://www.ridethelightning.info/)
