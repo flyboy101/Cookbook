@@ -17,6 +17,7 @@
 ## Bitcoin Knowledgebase:
 - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
+- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 
 ## Lightning:
 - [Managing lightning node](https://www.ridethelightning.info/)
