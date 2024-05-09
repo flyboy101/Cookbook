@@ -23,6 +23,7 @@
 
 ## Lightning:
 - [Managing lightning node](https://www.ridethelightning.info/)
+- [Zeus LN Node - Advanced Usage](https://darthcoin.substack.com/p/zeus-node-advanced-usage?publication_id=506253&post_id=144360812&isFreemail=true&r=1lnquu)
 
 ## Stats:
 - [Protocol statistics](https://transactionfee.info/)
