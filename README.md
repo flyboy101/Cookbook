@@ -16,9 +16,11 @@
 - [Restore a Bitcoin blockchain backup copy to a new installation](https://objsal.medium.com/restore-a-bitcoin-blockchain-backup-copy-to-a-new-installation-550715a93862)
 
 ## Bitcoin Knowledgebase:
-- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
+- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+- [Bitcoin Talk](https://bitcointalk.org/)
+- [Bitcoin subreddit](https://www.reddit.com/r/Bitcoin/)
 - [ArmantheParman’s FREE Guides](https://armantheparman.com/)
 
 ## Lightning:
@@ -29,7 +31,10 @@
 - [Protocol statistics](https://transactionfee.info/)
 
 ## Dev Blog:
+- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
 - [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Bitcoin Optech](https://bitcoinops.org/)
+- [bitcoindev mailing list](https://groups.google.com/group/bitcoindev)
 
 ## Bitcoin Privacy:
 ### Resources
