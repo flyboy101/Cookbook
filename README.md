@@ -28,6 +28,9 @@
 ## Stats:
 - [Protocol statistics](https://transactionfee.info/)
 
+## Dev Blog:
+- [Delving Bitcoin](https://delvingbitcoin.org/)
+
 ## Bitcoin Privacy:
 ### Resources
 - [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
