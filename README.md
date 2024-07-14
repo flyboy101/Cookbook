@@ -18,8 +18,8 @@
 ## Bitcoin Knowledgebase:
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
-- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 - [Bitcoin Talk](https://bitcointalk.org/)
+- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 - [Bitcoin subreddit](https://www.reddit.com/r/Bitcoin/)
 - [ArmantheParman’s FREE Guides](https://armantheparman.com/)
 
