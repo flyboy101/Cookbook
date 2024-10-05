@@ -46,6 +46,7 @@
 ### Resources
 - [Vanity address](https://bitcointalk.org/index.php?topic=25804.0)
 - [How to Design Schnorr Signatures](https://www.youtube.com/watch?v=wjACBRJDfxc&list=WL&index=6)
+- [Bitcoin Transaction Size Calculator](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 
 ## Bitcoin Meetup:
 ### Resources
