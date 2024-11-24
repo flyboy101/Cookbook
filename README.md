@@ -31,6 +31,11 @@
 - [Zeus LN Node - Advanced Usage](https://darthcoin.substack.com/p/zeus-node-advanced-usage?publication_id=506253&post_id=144360812&isFreemail=true&r=1lnquu)
 - [The Lightning channels recap](https://massmux.org/p/the-lightning-channels-recap?publication_id=1579176&post_id=151883354&isFreemail=true&r=1lnquu&triedRedirect=true)
 
+## BLokchain technologies:
+- [Bitcoin 101 - Elliptic Curve Cryptography](https://www.youtube.com/watch?v=iB3HcPgm_FI&list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q&index=18)
+
+
+
 ## Stats:
 - [Protocol statistics](https://transactionfee.info/)
 
