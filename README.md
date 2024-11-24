@@ -15,6 +15,7 @@
 - [Configurazione Electrs per accesso remoto su TOR](https://whiterabbit21m.substack.com/p/configurazione-electrs-per-accesso?r=2kycbh)
 - [Restore a Bitcoin blockchain backup copy to a new installation](https://objsal.medium.com/restore-a-bitcoin-blockchain-backup-copy-to-a-new-installation-550715a93862)
 - [TOR support](https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md)
+- [Raspibolt 3 - Bitcoin and lightning node](https://raspibolt.org/)
 
 ## Bitcoin Knowledgebase:
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
