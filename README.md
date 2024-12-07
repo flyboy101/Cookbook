@@ -67,9 +67,11 @@
 - [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
 
 
+
 ## Bitcoin as asset:
 ### Resources
 - [Jesse Myers - Asset DNA: The Diverging Performance of Store-of-Value Assets](https://www.onceinaspecies.com/p/asset-dna-the-diverging-performance)
+
 
 
 
