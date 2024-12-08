@@ -9,6 +9,7 @@
 - [Jon Atack - How to Contribute Pull Requests to Bitcoin Core](https://jonatack.github.io/articles/how-to-contribute-pull-requests-to-bitcoin-core)
 - [Jon Atack - How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
 - [Jon Atack - Stoic thoughts from Marcus Aurelius](https://jonatack.github.io/articles/epictetus)
+- [Stadicus - Beginner’s Guide to ️Lightning️ on a Raspberry Pi](https://medium.com/@stadicus/noobs-guide-to-%EF%B8%8F-lightning%EF%B8%8F-on-a-raspberry-pi-f0ab7525586e)
 - [Chaincode Labs - Study guide](https://github.com/chaincodelabs/seminars)
 - [Andreas Antonopolous - Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 - [Darthcoin - How to get started with a Umbrel Bitcoin / LN Node](https://darthcoin.substack.com/p/umbrel-bitcoin-ln-node)
