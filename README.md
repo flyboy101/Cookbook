@@ -50,6 +50,7 @@
 - [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Bitcoin Optech](https://bitcoinops.org/)
 - [bitcoindev mailing list](https://groups.google.com/group/bitcoindev)
+- [Blog Loïc Morel](https://www.pandul.fr/blog)
 
 ## Bitcoin Privacy:
 ### Resources
