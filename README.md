@@ -11,6 +11,7 @@
 - [Jon Atack - Stoic thoughts from Marcus Aurelius](https://jonatack.github.io/articles/epictetus)
 - [Stadicus - Beginner’s Guide to ️Lightning️ on a Raspberry Pi](https://medium.com/@stadicus/noobs-guide-to-%EF%B8%8F-lightning%EF%B8%8F-on-a-raspberry-pi-f0ab7525586e)
 - [Chaincode Labs - Study guide](https://github.com/chaincodelabs/seminars)
+- [Onboarding to Bitcoin Core](https://bitcoincore.academy/bin/onboarding-to-bitcoin-core.html)
 - [Andreas Antonopolous - Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 - [Darthcoin - How to get started with a Umbrel Bitcoin / LN Node](https://darthcoin.substack.com/p/umbrel-bitcoin-ln-node)
 - [Configurazione Electrs per accesso remoto su TOR](https://whiterabbit21m.substack.com/p/configurazione-electrs-per-accesso?r=2kycbh)
