@@ -53,7 +53,6 @@
 
 ## Bitcoin Privacy:
 - [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
-- [KYCP.org](https://kycp.org/#/)
 - [Coin control](https://nopara73.medium.com/coin-control-is-must-learn-if-you-care-about-your-privacy-in-bitcoin-33b9a5f224a2)
 
 ## Bitcoin Wallet:
