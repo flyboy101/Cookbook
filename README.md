@@ -106,7 +106,7 @@ m/84'/0'/94982'/0
 - On the fourth level, `change`, an hardware wallet has two subtrees, one for creating receiving addresses and one for creating change addresses. Note that whereas the previous levels used hardened derivation, this level uses normal derivation. This is to allow this level of the tree to export extended public keys for use in a nonsecured environment. Usable addresses are derived by the hardware wallet as children of the fourth level, making the fifth level of the tree the "address_index." For example, the third receiving address for bitcoin payments in the primary account would be M/44&#x27;/0&#x27;/0&#x27;/0/2. 
 
 
-# Markdown & Readme file in Github:
+# Markdown & Readme file in Github and beyond
 Trader based on google finance data and google spreadsheet
 
 For further info on how to set up a readme file in Github:
