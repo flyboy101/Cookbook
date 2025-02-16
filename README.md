@@ -107,16 +107,14 @@ m/84'/0'/94982'/0
 
 
 # Markdown & Readme file in Github and beyond
-Trader based on google finance data and google spreadsheet
-
-For further info on how to set up a readme file in Github:
+Hot to setup a readme file in Github:
  - https://guides.github.com/features/mastering-markdown/
  - https://guides.github.com/features/wikis/#creating-a-readme
 
-On how to setup a web page in Github:
+How to setup a web page in Github:
  - https://pages.github.com/
 
-Creating a GitHub Pages site with Jekyll:
+How to create a GitHub Pages site with Jekyll:
 - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
  
 
