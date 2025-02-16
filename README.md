@@ -1,6 +1,5 @@
 # Cookbook
 ## Bitcoin Core:
-### Resources
 
 - [StopAndDecrypt - A Complete Beginners Guide to Installing a Bitcoin Full Node on Linux (2021 Edition)](https://medium.com/@stopanddecrypt/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2021-edition-46bf20fbe8ff)
 - [StopAndDecrypt - Running Bitcoin & Lightning Nodes Over The Tor Network (2021 Edition)](https://medium.com/@stopanddecrypt/running-bitcoin-lightning-nodes-over-the-tor-network-2021-edition-489180297d5)
@@ -54,13 +53,11 @@
 - [Blog Loïc Morel](https://www.pandul.fr/blog)
 
 ## Bitcoin Privacy:
-### Resources
 - [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
 - [KYCP.org](https://kycp.org/#/)
 - [Coin control](https://nopara73.medium.com/coin-control-is-must-learn-if-you-care-about-your-privacy-in-bitcoin-33b9a5f224a2)
 
 ## Bitcoin Wallet:
-### Resources
 - [Wallet recovery](https://walletsrecovery.org/)
 - [Ian Coleman Mnemonic Code Converter](https://iancoleman.io/bip39/)
 - [Vanity address](https://bitcointalk.org/index.php?topic=25804.0)
@@ -68,13 +65,11 @@
 - [Bitcoin Transaction Size Calculator](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 
 ## Bitcoin Meetup:
-### Resources
 - [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
 
 
 
 ## Bitcoin as asset:
-### Resources
 - [Jesse Myers - Asset DNA: The Diverging Performance of Store-of-Value Assets](https://www.onceinaspecies.com/p/asset-dna-the-diverging-performance)
 - [Jesse Myers - Increasing Scarcity: Bitcoin's Value Appreciation Engine](https://www.onceinaspecies.com/p/bitcoin-will-5x-in-the-next-3-years)
 
