@@ -36,7 +36,7 @@
 - [Alberto De Luigi - Guida completa al wallet Bitcoin, con Lightning Network](https://www.albertodeluigi.com/2020/12/13/wallet_lightning_network/)
 - [Alberto De Luigi - Lightning network](https://www.albertodeluigi.com/index/bitcoin/lightning-network-english/)
 - [Alberto De Luigi - Bitcoin e adozione di massa: cosa (e quanto tempo) manca a Lightning Network](https://www.albertodeluigi.com/2018/11/02/bitcoin-mass-adoption-lightning-network/)
-- [Lightning labs](https://lightning.engineering/loop/)
+- [Lightning labs - Loop](https://lightning.engineering/loop/)
 
 ## Blokchain technologies:
 - [James D'Angelo - Bitcoin 101 - Elliptic Curve Cryptography](https://www.youtube.com/watch?v=iB3HcPgm_FI&list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q&index=18)
