@@ -19,7 +19,7 @@
 - [Raspibolt 3 - Bitcoin and lightning node](https://raspibolt.org/)
 - [MiniBolt -  A DIY Bitcoin & Lightning node](https://minibolt.minibolt.info/)
 
-## Bitcoin Knowledgebase:
+## Bitcoin Knowledgbase:
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin Talk](https://bitcointalk.org/)
