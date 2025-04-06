@@ -7,6 +7,7 @@ This section may be of use to you if you wish to send a friend the blockchain, a
 
 Subdirectory       | File(s)               | Description
 -------------------|-----------------------|------------
+`blocks/`          |                       | Blocks directory; can be specified by `-blocksdir` option (except for `blocks/index/`)
                    | `wallet.dat`          | Contains addresses and transactions linked to them. Please be sure to make backups of this file. 
                    | `db.log`              | May contain information pertaining to your wallet. It may be safely deleted.
                    | `debug.log`           | May contain IP addresses and transaction ID's. It may be safely deleted.
