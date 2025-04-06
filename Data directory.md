@@ -18,9 +18,19 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet.
 `.cookie`          |                       | Do not share with others  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
 `-`                | `onion_v3_private_key`| Do not share with others | Contains your hidden service key if you are running Bitcoin Core through a Tor connection. 
-`blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation
-`chainstate`       | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation
-`blocks/index`     | `-`                   | -  | Contain information pertaining only to the public blockchain
+`blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
+`blocks/`          | `blk###.dat`          | -  | Actual Bitcoin blocks (dumped in network format, 128 MiB per file)
+`blocks/`          | `rev###.dat`          | -  | Block undo data (custom format)
+`blocks/`          | `xor.dat`             | -  | Rolling XOR pattern for block and undo data files
+`chainstate`       | 	LevelDB database     | -  | Blockchain state (a compact representation of all currently unspent transaction outputs (UTXOs) and metadata about the transactions they are from). It contains information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation
+`blocks/index`     | LevelDB database      | -  | Contain information pertaining only to the public blockchain. Block index; -blocksdir option does not affect this path
+`indexes/txindex/` | LevelDB database      | -  | Transaction index; optional, used if `-txindex=1`
+`indexes/blockfilter/basic/db/` | LevelDB database      | -  | Blockfilter index LevelDB database for the basic filtertype; optional, used if `-blockfilterindex=basic`
+`wallets/`         | LevelDB database      | -  | Blockfilter index LevelDB database for the basic filtertype; optional, used if `-blockfilterindex=basic`
+
+
+
+
   
 # Transferability
 
