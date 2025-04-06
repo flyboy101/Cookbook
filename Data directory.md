@@ -16,7 +16,12 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `-`                | `peers.dat`           | Yes | It contains addresses and connection statistics of peers, but does not contain any personally identifiable data. 
 `.cookie`          |                       | Do not share with others  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
 `-`                | `onion_v3_private_key`| Do not share with others | Contains your hidden service key if you are running Bitcoin Core through a Tor connection. 
+`blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain
+`blocks/index`     | `-`                   | -  | Contain information pertaining only to the public blockchain
+`chainstate`       | `-`                   | -  | Contain information pertaining only to the public blockchain
   
+
+
 
 
 
