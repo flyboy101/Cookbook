@@ -18,9 +18,9 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet.
 `.cookie`          |                       | Do not share with others  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
 `-`                | `onion_v3_private_key`| Do not share with others | Contains your hidden service key if you are running Bitcoin Core through a Tor connection. 
-`blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain
+`blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation
+`chainstate`       | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation
 `blocks/index`     | `-`                   | -  | Contain information pertaining only to the public blockchain
-`chainstate`       | `-`                   | -  | Contain information pertaining only to the public blockchain
   
 
 
