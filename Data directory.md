@@ -7,7 +7,7 @@ This section may be of use to you if you wish to send a friend the blockchain, a
 
 Subdirectory       | File(s)               | Safely deleted | Description
 -------------------|-----------------------|----------------|-------------
-``                | `bitcoin.conf`        | NO  | May contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
+                | `bitcoin.conf`        | NO  | May contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
 `-`                | `settings.json`       | NO  | Contains GUI settings with a similar nature to those in bitcoin.conf.
 `-`                | `debug.log`           | Yes | May contain IP addresses and transaction ID's. 
 `-`                | `wallet.dat`          | Make backup | Contains addresses and transactions linked to them. 
