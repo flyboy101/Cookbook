@@ -22,8 +22,9 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `chainstate`       | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation
 `blocks/index`     | `-`                   | -  | Contain information pertaining only to the public blockchain
   
+# Transferability
 
-
+Each node has a unique block database, and all of the files are highly connected. So if you copy just a few files from one installation's "blocks" or "chainstate" directories into another installation, this will almost certainly cause the second node to crash or get stuck at some random point in the future. If you want to copy a block database from one installation to another, you have to delete the old database and copy all of the files at once. Both nodes have to be shut down while copying.
 
 
 
