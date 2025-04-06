@@ -7,17 +7,17 @@ This section may be of use to you if you wish to send a friend the blockchain, a
 
 Subdirectory       | File(s)               | Safely deleted | Description
 -------------------|-----------------------|----------------|-------------
-`-`                | `bitcoin.conf`        | NO  | May contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
-`-`                | `settings.json`       | NO  | Contains GUI settings with a similar nature to those in bitcoin.conf.
-`-`                | `anchors.dat`         | -   | 
-`-`                | `peers.dat`           | Yes | It contains addresses and connection statistics of peers, but does not contain any personally identifiable data. 
-`-`                | `mempool.dat`         | -   | 
-`-`                | `debug.log`           | Yes | May contain IP addresses and transaction ID's. 
-`-`                | `wallet.dat`          | Make backup | Contains addresses and transactions linked to them. 
-`-`                | `db.log`              | Yes | May contain information pertaining to your wallet. 
+`./`               | `bitcoin.conf`        | NO  | May contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
+`./`               | `settings.json`       | NO  | Contains GUI settings with a similar nature to those in bitcoin.conf.
+`./`               | `anchors.dat`         | -   | Anchor IP address database, created on shutdown and deleted at startup. Anchors are last known outgoing block-relay-only peers that are tried to re-connect to on startup
+`./`               | `peers.dat`           | Yes | It contains addresses and connection statistics of peers, but does not contain any personally identifiable data. 
+`./`               | `mempool.dat`         | -   | 
+`./`               | `debug.log`           | Yes | May contain IP addresses and transaction ID's. 
+`./`               | `wallet.dat`          | Make backup | Contains addresses and transactions linked to them. 
+`./`               | `db.log`              | Yes | May contain information pertaining to your wallet. 
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet.
 `.cookie`          |                       | Do not share with others  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
-`-`                | `onion_v3_private_key`| Do not share with others | Contains your hidden service key if you are running Bitcoin Core through a Tor connection. 
+`./`               | `onion_v3_private_key`| Do not share with others | Contains your hidden service key if you are running Bitcoin Core through a Tor connection. 
 `blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
 `blocks/`          | `blk###.dat`          | -  | Actual Bitcoin blocks (dumped in network format, 128 MiB per file)
 `blocks/`          | `rev###.dat`          | -  | Block undo data (custom format)
@@ -26,7 +26,7 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `blocks/index`     | LevelDB database      | -  | Contain information pertaining only to the public blockchain. Block index; -blocksdir option does not affect this path
 `indexes/txindex/` | LevelDB database      | -  | Transaction index; optional, used if `-txindex=1`
 `indexes/blockfilter/basic/db/` | LevelDB database      | -  | Blockfilter index LevelDB database for the basic filtertype; optional, used if `-blockfilterindex=basic`
-`wallets/`         | LevelDB database      | -  | Blockfilter index LevelDB database for the basic filtertype; optional, used if `-blockfilterindex=basic`
+`wallets/`         | LevelDB database      | -  | Contains wallets; can be specified by `-walletdir` option; if wallets/ subdirectory does not exist, wallets reside in the data directory, i.e. the default location where the Bitcoin Core files are stored
 
 
 
