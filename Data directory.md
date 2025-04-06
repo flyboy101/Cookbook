@@ -6,6 +6,7 @@ An overview of these is in [files.md](https://github.com/bitcoin/bitcoin/blob/ma
 This section may be of use to you if you wish to send a friend the blockchain, avoiding them a hefty download.
 
 - wallet.dat
+
   Contains addresses and transactions linked to them. Please be sure to make backups of this file. It contains the keys necessary for spending your bitcoins. You should not transfer this file to any third party or they may be able to access your bitcoins.
 - db.log
 May contain information pertaining to your wallet. It may be safely deleted.
