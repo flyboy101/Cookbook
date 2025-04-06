@@ -7,7 +7,7 @@ This section may be of use to you if you wish to send a friend the blockchain, a
 
 Subdirectory       | File(s)               | Description
 -------------------|-----------------------|------------
-                   | `wallet.dat`          | Contains addresses and transactions linked to them. Please be sure to make backups of this file. It contains the keys necessary for spending your bitcoins. You should not transfer this file to any third party or they may be able to access your bitcoins.
+                   | `wallet.dat`          | Contains addresses and transactions linked to them. Please be sure to make backups of this file. 
                    | `db.log`              | May contain information pertaining to your wallet. It may be safely deleted.
                    | `debug.log`           | May contain IP addresses and transaction ID's. It may be safely deleted.
                    | `database/ folder`    | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet.
