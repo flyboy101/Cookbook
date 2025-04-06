@@ -7,9 +7,11 @@ This section may be of use to you if you wish to send a friend the blockchain, a
 
 Subdirectory       | File(s)               | Safely deleted | Description
 -------------------|-----------------------|----------------|-------------
-`./`               | `bitcoin.conf`        | NO  | May contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
+`./`               | `bitcoin.conf`        | NO  | User-defined configuration settings for `bitcoind` or `bitcoin-qt`. File is not written to by the software and must be created manually. Path can be specified by `-conf` option
+May contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
 `./`               | `settings.json`       | NO  | Contains GUI settings with a similar nature to those in bitcoin.conf.
 `./`               | `anchors.dat`         | -   | Anchor IP address database, created on shutdown and deleted at startup. Anchors are last known outgoing block-relay-only peers that are tried to re-connect to on startup
+`./`               | `banlist.json`        | -   | Stores the addresses/subnets of banned nodes
 `./`               | `peers.dat`           | Yes | It contains addresses and connection statistics of peers, but does not contain any personally identifiable data. 
 `./`               | `mempool.dat`         | -   | 
 `./`               | `debug.log`           | Yes | May contain IP addresses and transaction ID's. 
