@@ -77,6 +77,9 @@
 ## Bitcoin app:
 - [Timechain Calendar](https://timechaincalendar.com/en)
 
+## Bitcoin games:
+- [BTC treasure hunt](https://btcpuzzle.info/)
+
 
 ## Bitcoin Wallet:
 ### HD wallet key identifier (path)
