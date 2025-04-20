@@ -6,7 +6,7 @@ The data directory is the default location where the Bitcoin Core files are stor
 * The default data directory paths for Linux-based systems is: `$HOME/.bitcoin/`
 * A custom data directory path can be specified via the `-datadir` option
 * All content of the data directory, except for `bitcoin.conf` file, is chain-specific
-* Any copy or backup of the wallet should be done through a backupwallet call in order to update and lock the wallet, preventing any file corruption caused by updates during the copy
+* Any copy or backup of the wallet should be done through a `backupwallet` call in order to update and lock the wallet, preventing any file corruption caused by updates during the copy
 
 This section provides an overview of the structure of Bitcoin Core directories. This may result useful if you wish to understand Bitcoin Core data structure und send a friend (or the future yourself) the entire blockchain, avoiding him a hefty download.
 
