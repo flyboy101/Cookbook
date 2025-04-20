@@ -6,8 +6,8 @@ An overview of these table is in also available in the Bitcoin Core documentatio
 
 Subdirectory       | File(s)               | Safely deleted | Description
 -------------------|-----------------------|----------------|-------------
-`./`               | `bitcoin.conf`        | NO  | User-defined configuration settings for `bitcoind` or `bitcoin-qt`. File is not written to by the software and must be created manually. Path can be specified by `-conf` option. It may contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
-`./`               | `settings.json`       | NO  | Read-write settings set through GUI or RPC interfaces, augmenting manual settings with a similar nature of `bitcoin.conf`. File is created automatically if read-write settings storage is not disabled with `-nosettings` option. Path can be specified with `-settings` option
+`./`               | `bitcoin.conf`        | No  | User-defined configuration settings for `bitcoind` or `bitcoin-qt`. File is not written to by the software and must be created manually. Path can be specified by `-conf` option. It may contain your IP or hidden service address, paths on your filesystem, and RPC credentials.
+`./`               | `settings.json`       | No  | Read-write settings set through GUI or RPC interfaces, augmenting manual settings with a similar nature of `bitcoin.conf`. File is created automatically if read-write settings storage is not disabled with `-nosettings` option. Path can be specified with `-settings` option
 `./`               | `anchors.dat`         | -   | Anchor IP address database, created on shutdown and deleted at startup. Anchors are last known outgoing block-relay-only peers that are tried to re-connect to on startup
 `./`               | `banlist.json`        | -   | Stores the addresses/subnets of banned nodes
 `./`               | `peers.dat`           | Yes | It contains addresses and connection statistics of peers, but does not contain any personally identifiable data
