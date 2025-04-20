@@ -1,14 +1,15 @@
-# Directory content
+# Directory structure and content
+
+This section provides an overview of the structure of Bitcoin Core directories. This may result useful if you wish to understand Bitcoin Core data structure und send a friend (or the future yourself) the entire blockchain, avoiding him a hefty download.
 
 # Data directory location
-The data directory is the default location where the Bitcoin Core files are stored.
 
-* The default data directory paths for Linux-based systems is: `$HOME/.bitcoin/`
+* The data directory is the default location where the Bitcoin Core files are stored.
+* The default data directory paths for Linux-based systems is: `$HOME/.bitcoin/`, i.e. for example `/home/username/.bitcoin/`
 * A custom data directory path can be specified via the `-datadir` option
 * All content of the data directory, except for `bitcoin.conf` file, is chain-specific
 * Any copy or backup of the wallet should be done through a `backupwallet` call in order to update and lock the wallet, preventing any file corruption caused by updates during the copy
 
-This section provides an overview of the structure of Bitcoin Core directories. This may result useful if you wish to understand Bitcoin Core data structure und send a friend (or the future yourself) the entire blockchain, avoiding him a hefty download.
 
 An overview of these table is in also available in the Bitcoin Core documentation [files.md](https://github.com/bitcoin/bitcoin/blob/master/doc/files.md).
 
@@ -40,10 +41,13 @@ Subdirectory       | File(s)               | Safely deleted | Description
 
 
 # Configuration file
+* The default data directory paths for Linux-based systems is: `$HOME/.bitcoin/`, i.e. for example `/home/username/.bitcoin/bitcoin.conf`
 * The configuration file is used by `bitcoind`, `bitcoin-qt` and `bitcoin-cli`
 * Changes to the configuration file while `bitcoind` or `bitcoin-qt` is running only take effect after restarting.
 * Options specified in the configuration file can be overridden by options in the `settings.json` file and by options specified on the command line.
 * The `settings.json` file contains dynamic settings that are set by the Bitcoin Core GUI and RPCs at runtime, and augment or replace the static settings specified in the `bitcoin.conf` file.
+* Command line options also augment or replace `bitcoin.conf` options, and can be useful for scripting and debugging
+* It is possible to see which setting values are in use by checking `debug.log` output. Any unrecognized options that are found in `bitcoin.conf` also show up as warnings in `debug.log` output.
 
 
 # Transferability
