@@ -17,7 +17,7 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `./`               | `fee_estimates.dat`   | Yes | Stores statistics used to estimate minimum transaction fees required for confirmation. It may contain information pertaining to your wallet
 `./`               | `wallet.dat`          | Make backup | Contains addresses and transactions linked to them
 `./`               | `db.log`              | Yes | May contain information pertaining to your wallet
-`-`                | `.lock/`              | Yes | Data directory lock file
+`-`                | `.lock`              | Yes | Data directory lock file
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet
 `.cookie`          |                       | Do not share with others  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
 `blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
