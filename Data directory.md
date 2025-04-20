@@ -1,7 +1,8 @@
 # Directory content
 
-An overview of these is in also available in the Bitcoin Core documentation [files.md](https://github.com/bitcoin/bitcoin/blob/master/doc/files.md)
-This section may be of use to you if you wish to send a friend the blockchain, avoiding them a hefty download.
+An overview of these table is in also available in the Bitcoin Core documentation [files.md](https://github.com/bitcoin/bitcoin/blob/master/doc/files.md)
+
+This section may be useful to you if you wish to send a friend the blockchain, avoiding them a hefty download.
 
 Subdirectory       | File(s)               | Safely deleted | Description
 -------------------|-----------------------|----------------|-------------
