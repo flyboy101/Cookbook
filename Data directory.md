@@ -19,7 +19,7 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `./`               | `db.log`              | Yes | May contain information pertaining to your wallet
 `./`               | `.lock`               | Yes | Data directory lock file
 `./`               | `.cookie`             | Keep secret  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
-`blocks/`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
+`blocks/`          |                       | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
 `blocks/`          | `blk###.dat`          | -  | Actual Bitcoin blocks (dumped in network format, 128 MB per file)
 `blocks/`          | `rev###.dat`          | -  | Block undo data (custom format)
 `blocks/`          | `xor.dat`             | -  | Rolling XOR pattern for block and undo data files
@@ -27,7 +27,7 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `blocks/index`     | LevelDB database      | -  | Contain information pertaining only to the public blockchain. Block index; `-blocksdir` option does not affect this path
 `indexes/txindex/` | LevelDB database      | -  | Transaction index; optional, used if `-txindex=1`
 `indexes/blockfilter/basic/db/` | LevelDB database      | -  | Blockfilter index LevelDB database for the basic filtertype; optional, used if `-blockfilterindex=basic`
-`wallets/`         | LevelDB database      | -  | Contains wallets; can be specified by `-walletdir` option; if `wallets/` subdirectory does not exist, wallets reside in the data directory, i.e. the default location where the Bitcoin Core files are stored
+`wallets/`         |                       | -  | Contains wallets; can be specified by `-walletdir` option; if `wallets/` subdirectory does not exist, wallets reside in the data directory, i.e. the default location where the Bitcoin Core files are stored
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet
 
 
