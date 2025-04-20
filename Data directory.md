@@ -34,7 +34,7 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `blocks/index`     | LevelDB database      | -  | Contain information pertaining only to the public blockchain. Block index; `-blocksdir` option does not affect this path
 `indexes/txindex/` | LevelDB database      | -  | Transaction index; optional, used if `-txindex=1`
 `indexes/blockfilter/basic/db/` | LevelDB database      | -  | Blockfilter index LevelDB database for the basic filtertype; optional, used if `-blockfilterindex=basic`
-`wallets/`         |                       | -  | Contains wallets; can be specified by `-walletdir` option; if `wallets/` subdirectory does not exist, wallets reside in the data directory, i.e. the default location where the Bitcoin Core files are stored `$HOME/.bitcoin/`
+`wallets/`         |                       | -  | Contains wallets; path can be specified by `-walletdir` option; if `wallets/` subdirectory does not exist, wallets reside in the data directory, i.e. the default location where the Bitcoin Core files are stored `$HOME/.bitcoin/`
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet
 
 
