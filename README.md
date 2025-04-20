@@ -5,6 +5,7 @@
 - [Jon Atack - How to Contribute Pull Requests to Bitcoin Core](https://jonatack.github.io/articles/how-to-contribute-pull-requests-to-bitcoin-core)
 - [Jon Atack - How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
 - [Jon Atack - Stoic thoughts from Marcus Aurelius](https://jonatack.github.io/articles/epictetus)
+- [Bitcoin Core on Ubuntu with Extras](https://medium.com/@_vasilo/bitcoin-core-on-ubuntu-with-extras-8b6c6126b223)
 - [BlocSoc IITR - All about Bitcoin Core](https://medium.com/@blocsoc.acm/all-about-bitcoin-core-9e2008c4b94b#:~:text=Bitcoin%20Core%20implements%20all%20aspects,peer%20review%2C%20testing%20and%20patches.)
 - [Bitcoin.org - Running a full node](https://bitcoin.org/en/full-node#port-forwarding)
 - [Stadicus - Beginner’s Guide to ️Lightning️ on a Raspberry Pi](https://medium.com/@stadicus/noobs-guide-to-%EF%B8%8F-lightning%EF%B8%8F-on-a-raspberry-pi-f0ab7525586e)
