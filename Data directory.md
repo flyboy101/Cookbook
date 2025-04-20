@@ -1,6 +1,6 @@
 # Directory structure and content
 
-This section provides an overview of the structure of Bitcoin Core directories. Understanding the data structure of Bitcoin Core is useful if you wish to send a friend (or the future yourself) the entire blockchain, avoiding a hefty download.
+This section provides an overview of the structure of Bitcoin Core directories. The data directory is the location where Bitcoin's data files are stored, including the wallet data file. Understanding the data structure of Bitcoin Core is useful if you wish to send a friend (or the future yourself) the entire blockchain, avoiding a hefty download.
 
 ## Data directory location
 
