@@ -1,5 +1,12 @@
 # Directory content
 
+## Data directory location
+The data directory is the default location where the Bitcoin Core files are stored.
+
+* The default data directory paths for Linux-based systems is: `$HOME/.bitcoin/`
+* A custom data directory path can be specified via the `-datadir` option
+* All content of the data directory, except for `bitcoin.conf` file, is chain-specific
+
 This section provides an overview of the structure of Bitcoin Core directories. This may result useful if you wish to understand Bitcoin Core data structure und send a friend (or the future yourself) the entire blockchain, avoiding him a hefty download.
 
 An overview of these table is in also available in the Bitcoin Core documentation [files.md](https://github.com/bitcoin/bitcoin/blob/master/doc/files.md).
