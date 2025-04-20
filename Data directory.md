@@ -19,7 +19,7 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `./`               | `db.log`              | Yes | May contain information pertaining to your wallet
 `./`               | `.lock`               | Yes | Data directory lock file
 `./`               | `.cookie`             | Keep secret  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
-`blocks`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
+`blocks/`           | `-`                   | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
 `blocks/`          | `blk###.dat`          | -  | Actual Bitcoin blocks (dumped in network format, 128 MB per file)
 `blocks/`          | `rev###.dat`          | -  | Block undo data (custom format)
 `blocks/`          | `xor.dat`             | -  | Rolling XOR pattern for block and undo data files
