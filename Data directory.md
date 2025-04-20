@@ -1,8 +1,8 @@
 # Directory content
 
-An overview of these table is in also available in the Bitcoin Core documentation [files.md](https://github.com/bitcoin/bitcoin/blob/master/doc/files.md)
+This section provides an overview of the structure of Bitcoin Core directories. This may result useful if you wish to understand Bitcoin Core data structure und send a friend (or the future yourself) the entire blockchain, avoiding him a hefty download.
 
-This section may be useful to you if you wish to send a friend the blockchain, avoiding them a hefty download.
+An overview of these table is in also available in the Bitcoin Core documentation [files.md](https://github.com/bitcoin/bitcoin/blob/master/doc/files.md).
 
 Subdirectory       | File(s)               | Safely deleted | Description
 -------------------|-----------------------|----------------|-------------
