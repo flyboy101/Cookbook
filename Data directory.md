@@ -1,6 +1,6 @@
 # Directory content
 
-## Data directory location
+# Data directory location
 The data directory is the default location where the Bitcoin Core files are stored.
 
 * The default data directory paths for Linux-based systems is: `$HOME/.bitcoin/`
@@ -39,8 +39,13 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet
 
 
+# Configuration file
+* The configuration file is used by `bitcoind`, `bitcoin-qt` and `bitcoin-cli`
+* Changes to the configuration file while `bitcoind` or `bitcoin-qt` is running only take effect after restarting.
+* Options specified in the configuration file can be overridden by options in the `settings.json` file and by options specified on the command line.
+* The `settings.json` file contains dynamic settings that are set by the Bitcoin Core GUI and RPCs at runtime, and augment or replace the static settings specified in the `bitcoin.conf` file.
 
-  
+
 # Transferability
 
 Each node has a unique block database, and all of the files are highly connected. So if you copy just a few files from one installation's "blocks" or "chainstate" directories into another installation, this will almost certainly cause the second node to crash or get stuck at some random point in the future. 
