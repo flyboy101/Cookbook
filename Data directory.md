@@ -17,8 +17,8 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `./`               | `fee_estimates.dat`   | Yes | Stores statistics used to estimate minimum transaction fees required for confirmation. It may contain information pertaining to your wallet
 `./`               | `wallet.dat`          | Make backup | Contains addresses and transactions linked to them
 `./`               | `db.log`              | Yes | May contain information pertaining to your wallet
-`./`               | `.lock`               | Yes | Data directory lock file
 `./`               | `.cookie`             | Keep secret  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
+`./`               | `.lock`               | Yes | Data directory lock file
 `blocks/`          |                       | -  | Contain information pertaining only to the public blockchain. This directory ist cross-platform, i.e. it can be copied between different installation. It can be specified by `-blocksdir` option (except for `blocks/index/`)
 `blocks/`          | `blk###.dat`          | -  | Actual Bitcoin blocks (dumped in network format, 128 MB per file)
 `blocks/`          | `rev###.dat`          | -  | Block undo data (custom format)
