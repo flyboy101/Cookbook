@@ -1,6 +1,6 @@
 # Directory structure and content
 
-This section provides an overview of the structure of Bitcoin Core directories. This may result useful if you wish to understand Bitcoin Core data structure und send a friend (or the future yourself) the entire blockchain, avoiding him a hefty download.
+This section provides an overview of the structure of Bitcoin Core directories. Understanding the data structure of Bitcoin Core is useful if you wish to send a friend (or the future yourself) the entire blockchain, avoiding a hefty download.
 
 ## Data directory location
 
