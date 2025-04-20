@@ -16,7 +16,7 @@ Subdirectory       | File(s)               | Safely deleted | Description
 `./`               | `fee_estimates.dat`   | Yes | Stores statistics used to estimate minimum transaction fees required for confirmation. It may contain information pertaining to your wallet
 `./`               | `wallet.dat`          | Make backup | Contains addresses and transactions linked to them
 `./`               | `db.log`              | Yes | May contain information pertaining to your wallet
-`./`               | `onion_v3_private_key`| Do not share with others | Contains your hidden service key if you are running Bitcoin Core through a Tor connection
+`./`               | `onion_v3_private_key`| Keep secret | Contains your hidden service key if you are running Bitcoin Core through a Tor connection
 `.lock/`           | `-`                   | Yes | Data directory lock file
 `database/ folder` | `-`                   | -   | This should only exist when bitcoin-qt is currently running. It contains information (BDB state) relating to your wallet
 `.cookie`          |                       | Do not share with others  | Contains temporary RPC credentials in situations where you haven't specified an explicit username & password. 
