@@ -81,6 +81,7 @@
 
 ## Bitcoin games:
 - [BTC treasure hunt](https://btcpuzzle.info/)
+- [BTC Puzzle](https://privatekeyfinder.io/bitcoin-puzzle)
 
 
 ## Bitcoin Wallet:
