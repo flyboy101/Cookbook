@@ -9,6 +9,7 @@
 - [BlocSoc IITR - All about Bitcoin Core](https://medium.com/@blocsoc.acm/all-about-bitcoin-core-9e2008c4b94b#:~:text=Bitcoin%20Core%20implements%20all%20aspects,peer%20review%2C%20testing%20and%20patches.)
 - [Bitcoin.org - Running a full node](https://bitcoin.org/en/full-node#port-forwarding)
 - [Stadicus - Beginner’s Guide to ️Lightning️ on a Raspberry Pi](https://medium.com/@stadicus/noobs-guide-to-%EF%B8%8F-lightning%EF%B8%8F-on-a-raspberry-pi-f0ab7525586e)
+- [Luke Dahjr - How to securely install Bitcoin](https://medium.com/@lukedashjr/how-to-securely-install-bitcoin-9bfeca7d3b2a)
 - [StopAndDecrypt - A Complete Beginners Guide to Installing a Bitcoin Full Node on Linux (2021 Edition)](https://medium.com/@stopanddecrypt/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2021-edition-46bf20fbe8ff)
 - [StopAndDecrypt - Running Bitcoin & Lightning Nodes Over The Tor Network (2021 Edition)](https://medium.com/@stopanddecrypt/running-bitcoin-lightning-nodes-over-the-tor-network-2021-edition-489180297d5)
 - [StopAndDecrypt - A Complete Beginners Guide to Installing a Lightning Node on Linux (2021 Edition)](https://medium.com/@stopanddecrypt/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d)
