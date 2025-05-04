@@ -1,0 +1,5 @@
+# Get binaries from Bitcoin Core repo
+
+* Get binary
+* Get SHA256SUMS.asc
+* wget https://bitcoin.org/laanwj-releases.asc
