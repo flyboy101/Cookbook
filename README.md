@@ -66,6 +66,7 @@
 - [Vanity address](https://bitcointalk.org/index.php?topic=25804.0)
 - [How to Design Schnorr Signatures](https://www.youtube.com/watch?v=wjACBRJDfxc&list=WL&index=6)
 - [Transaction Size Calculator](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
+- [Manually Creating and Signing a Bitcoin Transaction](https://medium.com/@ottosch/manually-creating-and-signing-a-bitcoin-transaction-87fbbfe46032)
 
 ## Bitcoin Meetup:
 - [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
