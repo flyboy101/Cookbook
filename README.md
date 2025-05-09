@@ -71,7 +71,8 @@
 ## Bitcoin Meetup:
 - [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
 
-
+## Blokchain podcast:
+- [Nodesignal Podcast](https://nodesignal.space/)
 
 ## Bitcoin as asset:
 - [Jesse Myers - Asset DNA: The Diverging Performance of Store-of-Value Assets](https://www.onceinaspecies.com/p/asset-dna-the-diverging-performance)
