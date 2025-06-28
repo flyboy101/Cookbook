@@ -13,6 +13,7 @@
 - [StopAndDecrypt - A Complete Beginners Guide to Installing a Bitcoin Full Node on Linux (2021 Edition)](https://medium.com/@stopanddecrypt/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2021-edition-46bf20fbe8ff)
 - [StopAndDecrypt - Running Bitcoin & Lightning Nodes Over The Tor Network (2021 Edition)](https://medium.com/@stopanddecrypt/running-bitcoin-lightning-nodes-over-the-tor-network-2021-edition-489180297d5)
 - [StopAndDecrypt - A Complete Beginners Guide to Installing a Lightning Node on Linux (2021 Edition)](https://medium.com/@stopanddecrypt/a-complete-beginners-guide-to-installing-a-lightning-node-on-linux-2021-edition-ece227cfc35d)
+- [Whiterabbit21m - BTC server](https://whiterabbit21m.substack.com/p/guida-alla-configurazione-di-un-server)
 - [Chaincode Labs - Study guide](https://github.com/chaincodelabs/seminars)
 - [Onboarding to Bitcoin Core](https://bitcoincore.academy/bin/onboarding-to-bitcoin-core.html)
 - [Andreas Antonopolous - Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
