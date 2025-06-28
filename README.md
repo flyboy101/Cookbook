@@ -22,6 +22,7 @@
 - [Restore a Bitcoin blockchain backup copy to a new installation](https://objsal.medium.com/restore-a-bitcoin-blockchain-backup-copy-to-a-new-installation-550715a93862)
 - [TOR support](https://github.com/bitcoin/bitcoin/blob/master/doc/tor.md)
 - [Raspibolt 3 - Bitcoin and lightning node](https://raspibolt.org/)
+- [MiniBolt - Bitcoin Core](https://minibolt.minibolt.info/bitcoin/bitcoin/bitcoin-client#configuration)
 - [MiniBolt -  A DIY Bitcoin & Lightning node](https://minibolt.minibolt.info/)
 
 ## Bitcoin Knowledgbase:
