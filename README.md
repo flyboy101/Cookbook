@@ -71,6 +71,7 @@
 - [Transaction Size Calculator](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
 - [Manually Creating and Signing a Bitcoin Transaction](https://medium.com/@ottosch/manually-creating-and-signing-a-bitcoin-transaction-87fbbfe46032)
 - [Securing the mnemonic seed phrase](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
+- [Sign a message with Electrum](https://medium.com/@bytether/how-to-sign-a-message-with-a-electrum-wallet-121f45f0bb40)
 
 ## Bitcoin Meetup:
 - [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
