@@ -82,6 +82,7 @@
 ## Bitcoin as asset:
 - [Jesse Myers - Asset DNA: The Diverging Performance of Store-of-Value Assets](https://www.onceinaspecies.com/p/asset-dna-the-diverging-performance)
 - [Jesse Myers - Increasing Scarcity: Bitcoin's Value Appreciation Engine](https://www.onceinaspecies.com/p/bitcoin-will-5x-in-the-next-3-years)
+- [Bitcoin-backed lending ranking](https://www.zone21.com/)
 
 
 ## Bitcoin app:
