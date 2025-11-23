@@ -45,6 +45,9 @@
 - [Alberto De Luigi - Bitcoin e adozione di massa: cosa (e quanto tempo) manca a Lightning Network](https://www.albertodeluigi.com/2018/11/02/bitcoin-mass-adoption-lightning-network/)
 - [Lightning labs - Loop](https://lightning.engineering/loop/)
 
+## Bitcoin mining
+- [Bitcoin Mining Dashboar](https://learn.braiins.com/en)
+
 ## Blokchain technologies:
 - [James D'Angelo - Bitcoin 101 - Elliptic Curve Cryptography](https://www.youtube.com/watch?v=iB3HcPgm_FI&list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q&index=18)
 
