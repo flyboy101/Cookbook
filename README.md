@@ -46,7 +46,7 @@
 - [Lightning labs - Loop](https://lightning.engineering/loop/)
 
 ## Bitcoin mining
-- [Bitcoin Mining Dashboar](https://learn.braiins.com/en)
+- [Braiins - Bitcoin Mining Dashboard](https://learn.braiins.com/en)
 
 ## Blokchain technologies:
 - [James D'Angelo - Bitcoin 101 - Elliptic Curve Cryptography](https://www.youtube.com/watch?v=iB3HcPgm_FI&list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q&index=18)
