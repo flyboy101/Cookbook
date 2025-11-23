@@ -26,7 +26,7 @@
 - [MiniBolt - Bitcoin Core](https://minibolt.minibolt.info/bitcoin/bitcoin/bitcoin-client#configuration)
 - [MiniBolt -  A DIY Bitcoin & Lightning node](https://minibolt.minibolt.info/)
 
-## Bitcoin Knowledgbase:
+## Bitcoin Knowledgebase:
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin Talk](https://bitcointalk.org/)
