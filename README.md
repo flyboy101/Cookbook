@@ -25,6 +25,7 @@
 - [Raspibolt 3 - Bitcoin and lightning node](https://raspibolt.org/)
 - [MiniBolt - Bitcoin Core](https://minibolt.minibolt.info/bitcoin/bitcoin/bitcoin-client#configuration)
 - [MiniBolt -  A DIY Bitcoin & Lightning node](https://minibolt.minibolt.info/)
+- [Block filtering]([https://minibolt.minibolt.info/](https://medium.com/coinmonks/block-filtering-how-it-makes-bitcoin-network-more-robust-7d35477617a8)
 
 ## Bitcoin Knowledgebase:
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
