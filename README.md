@@ -32,6 +32,7 @@
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin Talk](https://bitcointalk.org/)
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+- [Didactic bitcoin spripring visualizer](https://rawbit.io/)
 - [Bitcoin subreddit](https://www.reddit.com/r/Bitcoin/)
 - [ArmantheParman’s FREE Guides](https://armantheparman.com/)
 - [Alberto De Luigi - Debunking delle più comuni critiche a Bitcoin](https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/)
