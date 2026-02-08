@@ -33,6 +33,7 @@
 - [Bitcoin Talk](https://bitcointalk.org/)
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 - [Didactic bitcoin spripring visualizer](https://rawbit.io/)
+- [Bitcoin track bot](https://github.com/d0nch4n/bitcointrackbot/tree/main)
 - [Bitcoin subreddit](https://www.reddit.com/r/Bitcoin/)
 - [ArmantheParman’s FREE Guides](https://armantheparman.com/)
 - [Alberto De Luigi - Debunking delle più comuni critiche a Bitcoin](https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/)
