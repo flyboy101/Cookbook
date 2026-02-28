@@ -36,6 +36,7 @@
 - [Bitcoin track bot](https://github.com/d0nch4n/bitcointrackbot/tree/main)
 - [Bitcoin subreddit](https://www.reddit.com/r/Bitcoin/)
 - [ArmantheParman’s FREE Guides](https://armantheparman.com/)
+- [Elementary Bitcoin](https://elementarybitcoin.org/)
 - [Alberto De Luigi - Debunking delle più comuni critiche a Bitcoin](https://www.albertodeluigi.com/2021/04/30/debunking-critiche-bitcoin/)
 - [Alberto De Luigi - 101 cose che non sapevi su Bitcoin](https://www.albertodeluigi.com/2019/03/03/101-cose-che-non-sapevi-su-bitcoin/)
 
