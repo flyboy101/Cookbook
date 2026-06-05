@@ -94,6 +94,7 @@
 - [Jesse Myers - Increasing Scarcity: Bitcoin's Value Appreciation Engine](https://www.onceinaspecies.com/p/bitcoin-will-5x-in-the-next-3-years)
 - [Bitcoin-backed lending comparison](https://www.zone21.com/)
 - [DeFiLlama](https://defillama.com/)
+- [Ordiscan](https://ordiscan.com/)
 
 
 ## Bitcoin app:
