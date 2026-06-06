@@ -32,6 +32,7 @@ A curated list of awesome Bitcoin resources.
 - [Block filtering - Solution to light clients with resource constraints](https://medium.com/coinmonks/block-filtering-how-it-makes-bitcoin-network-more-robust-7d35477617a8)
 
 ## Bitcoin Knowledgebase:
+* Resources for understanding how the Bitcoin protocol works.*
 - [Learn me a bitcoin](https://learnmeabitcoin.com/)
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin Talk](https://bitcointalk.org/)
@@ -45,6 +46,7 @@ A curated list of awesome Bitcoin resources.
 - [Alberto De Luigi - 101 cose che non sapevi su Bitcoin](https://www.albertodeluigi.com/2019/03/03/101-cose-che-non-sapevi-su-bitcoin/)
 
 ## Lightning:
+* Resources for understanding how Ligthning network works.*
 - [Managing lightning node](https://www.ridethelightning.info/)
 - [Zeus LN Node - Advanced Usage](https://darthcoin.substack.com/p/zeus-node-advanced-usage?publication_id=506253&post_id=144360812&isFreemail=true&r=1lnquu)
 - [The Lightning channels recap](https://massmux.org/p/the-lightning-channels-recap?publication_id=1579176&post_id=151883354&isFreemail=true&r=1lnquu&triedRedirect=true)
@@ -54,16 +56,19 @@ A curated list of awesome Bitcoin resources.
 - [Lightning labs - Loop](https://lightning.engineering/loop/)
 
 ## Bitcoin mining
+* Resources on Bitcoin mining.*
 - [Braiins - Bitcoin Mining Dashboard](https://learn.braiins.com/en)
 
 ## Blokchain technologies:
 - [James D'Angelo - Bitcoin 101 - Elliptic Curve Cryptography](https://www.youtube.com/watch?v=iB3HcPgm_FI&list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q&index=18)
 
 ## Stats & charts:
+* Statistics and charts on Bitcoin network.*
 - [Protocol statistics](https://transactionfee.info/)
 - [checkonchain charts](https://charts.checkonchain.com/#derivatives)
 
 ## Dev Blog:
+* Prominent blog for developers.*
 - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/users/5406/murch)
 - [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Bitcoin Optech](https://bitcoinops.org/)
@@ -71,12 +76,14 @@ A curated list of awesome Bitcoin resources.
 - [Blog Loïc Morel](https://www.pandul.fr/blog)
 
 ## Bitcoin Privacy:
+* Resources on Bitcoin privacy.*
 - [KYCP.org - Knowing Your Coin Privacy](https://medium.com/samourai-wallet/knowing-your-coin-privacy-using-kycp-org-7b3b4385d8b)
 - [Coin control](https://nopara73.medium.com/coin-control-is-must-learn-if-you-care-about-your-privacy-in-bitcoin-33b9a5f224a2)
 - [privacy.sexy](https://privacy.sexy/)
 - [KYC.RIP](https://kyc.rip/)
 
 ## Bitcoin Wallet:
+* Resources on Bitcoin wallets.*
 - [Wallet recovery](https://walletsrecovery.org/)
 - [Ian Coleman Mnemonic Code Converter](https://iancoleman.io/bip39/)
 - [Vanity address](https://bitcointalk.org/index.php?topic=25804.0)
@@ -104,6 +111,7 @@ A curated list of awesome Bitcoin resources.
 - [Timechain Calendar](https://timechaincalendar.com/en)
 
 ## Bitcoin games:
+* Funny games based on Bitcoin.*
 - [BTC treasure hunt](https://btcpuzzle.info/)
 - [BTC Puzzle](https://privatekeyfinder.io/bitcoin-puzzle)
 
