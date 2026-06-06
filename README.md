@@ -1,4 +1,7 @@
 # Cookbook
+A curated list of awesome Bitcoin resources.
+
+
 ## Bitcoin Core:
 
 - [Jon Atack - How to compile Bitcoin Core and run the unit and functional tests](https://jonatack.github.io/articles/how-to-compile-bitcoin-core-and-run-the-tests)
