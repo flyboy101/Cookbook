@@ -1,5 +1,5 @@
 # Cookbook
-A curated list of awesome Bitcoin resources.
+*A curated list of awesome Bitcoin resources.*
 
 
 ## Bitcoin Core:
