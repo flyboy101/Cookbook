@@ -117,7 +117,7 @@ A curated list of awesome Bitcoin resources.
 
 
 ## Best practices against scams:
-- [Fiat best practices](https://learn.robosats.org/docs/payment-methods/#revolut-via-payment-links-or-revtags)
+- [Fiat best practices against scams](https://learn.robosats.org/docs/payment-methods/#revolut-via-payment-links-or-revtags)
 
 ## Bitcoin Wallet:
 ### HD wallet key identifier (path)
