@@ -116,6 +116,9 @@ A curated list of awesome Bitcoin resources.
 - [BTC Puzzle](https://privatekeyfinder.io/bitcoin-puzzle)
 
 
+## Best practices against scams:
+- [Fiat best practices](https://learn.robosats.org/docs/payment-methods/#revolut-via-payment-links-or-revtags)
+
 ## Bitcoin Wallet:
 ### HD wallet key identifier (path)
 HD wallet key identifier (path)
