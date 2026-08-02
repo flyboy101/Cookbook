@@ -84,6 +84,7 @@ A curated list of awesome Bitcoin resources.
 
 ## Bitcoin Wallet:
 *Resources on Bitcoin wallets.*
+- [Unofficial guides for Electrum](https://bitcoinelectrum.com/)
 - [Wallet recovery](https://walletsrecovery.org/)
 - [Ian Coleman Mnemonic Code Converter](https://iancoleman.io/bip39/)
 - [Vanity address](https://bitcointalk.org/index.php?topic=25804.0)
