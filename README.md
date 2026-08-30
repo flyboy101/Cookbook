@@ -94,6 +94,7 @@ A curated list of awesome Bitcoin resources.
 - [Securing the mnemonic seed phrase](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
 - [Sign a message with Electrum](https://medium.com/@bytether/how-to-sign-a-message-with-a-electrum-wallet-121f45f0bb40)
 - [Setup Bitcoin Multisig with Bitcoin Core](https://github.com/bowlarbear/yeti-2.0)
+- [Self Custody Labs](https://selfcustodylabs.com/)
 
 ## Bitcoin Meetup:
 - [Bitcoin lighthouse](https://bitcoinlighthouse.de/bitcoin-meetups/)
