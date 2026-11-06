@@ -1,0 +1,31 @@
+# Asymmetric encryption with GPG
+This is a guide for establishing encrypted communication via GPG
+
+## Receiver:
+1. Install Kleopatra
+2. Create a new fresh personal openPGP key pair
+3. Export the .asc file with the pukey
+
+## Sender:
+1. Import the pubkey file .asc
+2. Verify the fingerprint
+   * Click on details of the imported pubkey
+   * Identify the fingerprint (i.e. the hash of imported pubkey)
+   * Check the fingerprint with the receiver over a separate channel
+3. Encrypt the file you want to send
+   * Tick "sign" if you want to prove the ile came from you
+   * Tick "encrypt for me" so you can decrypt it later too (otherwise you won't be able to open your own copy)
+   * Tick "encrypt for others" and pick the receiver's key
+   * Click encrypt to create the .gpg file
+   * Send the file (with your pubkey if you signed it and the receivers needs your pubkey to verify the signature) over any channels
+
+## Receivers:
+1. Decrypt/Verify file
+   * Select the file
+   * Click decrypt
+   * Enter the private key passphrase
+   * The output is the original archive.zip, which can be unzipped normally
+ 
+
+
+
